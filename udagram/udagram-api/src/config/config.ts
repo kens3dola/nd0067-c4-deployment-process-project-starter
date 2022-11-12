@@ -1,21 +1,3 @@
-// import * as dotenv from "dotenv";
-// dotenv.config();
-// export const config = {
-//     username: `postgres`,
-//     password: "postgres",
-//     database: "postgres",
-//     port: 5432,
-//     host: "udagram.clg4yt5udrde.us-east-1.rds.amazonaws.com",
-//     dialect: "postgres",
-//     aws_region: "us-east-1",
-//     aws_profile: "default",
-//     aws_media_bucket: "arn:aws:s3:::sangpqbucket",
-//     url: "http://localhost:8100",
-//     jwt: {
-//         secret: "mysecretstring",
-//     },
-// };
-
 import * as dotenv from "dotenv";
 dotenv.config();
 export const config = {
